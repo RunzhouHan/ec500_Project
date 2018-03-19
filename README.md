@@ -15,7 +15,7 @@
   
 ## Frontend
 
-<img src="https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/Frontend.jpeg" width="600" height="400">
+<img src="https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/Frontend.jpeg" width="600" height="300">
   
   </br>
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
