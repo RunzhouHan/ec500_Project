@@ -20,7 +20,7 @@
   
 ## Backend
 
-<img src="https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/MySQL_Database.png" width="400" height="200">
+<img src="https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/MySQL_Database.png" width="400" height="100">
 
   </br>
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
