@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Restaurant Recommendation</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body>
+	<header class="top-header">
+    <nav class="top-nav">
+      <a href="#">Home</a>
+      <a href="#">Contact</a>
+      <a href="#">About</a>
+    </nav>
+  	</header>
+
+	<div class="wrapper">
+		<div class="login_header">
+			<h1>Restaurant Recommendation</h1>
+			Login or sign up here!
+		</div>
+		
+		<div>
+				<input id="log_userid" type="text" name="user_id" placeholder="user id" required>
+				<br>
+				<input id="log_password" type="password" name="password" placeholder="password" required>
+				<br>
+				<button id="login_submit">Login</button>
+				<br>
+				<a href="#" id="signup" class="signup">Need an account? Register here!</a>
+		</div>
+		<div>
+				<input id="reg_userid" type="text" name="user_id" placeholder="user id" required>
+				<br>
+				<input id="reg_firstname" type="text" name="first_name" placeholder="first name" required>
+				<br>
+				<input id="reg_lastname" type="text" name="last_name" placeholder="last name" required>
+				<br>
+				<input id="reg_password" type="password" name="password" placeholder="password" required>
+				<br>
+				<input id="reg_password2" type="password" name="password" placeholder="confirm your password" required>
+				<br>
+				<input id="reg_gender" type="text" name="gender" placeholder="male/female" required>
+				<br>
+				<input id="reg_nation" type="text" name="nation" placeholder="Enter your nationality" required>
+				<br>
+				<input id="reg_age" type="text" name="age" placeholder="Enter your age" required>
+				<br>
+				<button id="register_submit">Register</button>
+				<br>
+				<a id="signin" class="signin">Already have an account? Sign in here!</a>
+		</div>
+
+	</div>
+
+</body>
+
+<script src="scripts/login.js"></script>
+<script src="scripts/register.js"></script>
+</html>
