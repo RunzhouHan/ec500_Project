@@ -16,7 +16,9 @@
 This is an instruction for peer reviewers.
 
 Step 1: Download Java SE development Kit 8 
+
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 ![alt text](https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/WechatIMG483.jpeg)
 
 
