@@ -1,5 +1,5 @@
 # EC500_Group Project :thumbsup::thumbsup::thumbsup:
-## Brief Introduction :sunglasses:
+## Basic information :sunglasses:
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
   This is the page for **EC500(Spring 2018) C1 Resturant Recommender** 
@@ -10,6 +10,10 @@
   :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
   :boy: **Runzhou Han** rzhan@bu.edu   :point_right:[@github/RunzhouHan](https://github.com/RunzhouHan)
+  
+## Brief introduction
+
+Our project is a recommendation system based on collaborative filtering algorithm. Restaurant information is from Yelp API, which can return a limited number of restaurant nearby. Our database is MySQL.
   
 ## Instructions
 
