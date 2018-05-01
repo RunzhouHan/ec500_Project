@@ -13,7 +13,11 @@
   
 ## Brief introduction
 
-Our project is a recommendation system based on collaborative filtering algorithm. Restaurant information is from Yelp API, which can return a limited number of restaurant nearby. Our database is MySQL.
+Our project is a recommendation system based on collaborative filtering algorithm. 
+
+Restaurant information is from Yelp API, which can return a limited number of restaurant nearby. 
+
+Our database is MySQL.
   
 ## Instructions
 
