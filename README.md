@@ -18,6 +18,8 @@ Our project is a recommendation system based on collaborative filtering algorith
 Restaurant information is from Yelp API, which can return a limited number of restaurant nearby. 
 
 Our database is MySQL.
+
+Our code is mainly written in Java and the collaborative filtering part is written in Python.
   
 ## Instructions
 
