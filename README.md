@@ -13,29 +13,19 @@
   
 ## Instructions
 
-This is an instruction for peer reviewers.
+We have already exposed our project to externel traffic.
 
-Step 1: Download Java SE development Kit 8
+Please see our project at
 
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+http://18.216.200.17:8080/Titan/register.html#
 
-![alt text](https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/WechatIMG483.jpeg)
+### Latest update
 
-Step 2: Download Tomcat server
+Noticed that our authentication system met some error after we deploy our project to the Internet, please skip authentication page and start your restaurant recommendation here:
 
-http://tomcat.apache.org/download-90.cgi
+http://18.216.200.17:8080/Titan/
 
-![alt text](https://github.com/qinjinjia/ec500_Project/blob/master/Images%20for%20readme/tomcat.jpeg)
-
-Step 3: Download java-json.jar
-
-http://www.java2s.com/Code/JarDownload/java-json/java-json.jar.zip
-
-Step 4: Download JDBC archive from 
-
-http://dev.mysql.com/downloads/connector/j/, 
-
-then unzip it and you will see a mysql-connector-java-5.1.42-bin.jar file.
+Enjoy!
 
 ## Frontend
 
